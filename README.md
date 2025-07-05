@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate with tech companies 
 - 📫 How to reach me - By any social media
-- LinkedIn-
+- LinkedIn- www.linkedin.com/in/vrushabh-l-a42a581a8
 - 😄 Pronouns: --
 - ⚡ Fun fact: The first programmer was a woman.
 
