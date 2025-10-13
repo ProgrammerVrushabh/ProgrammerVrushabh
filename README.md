@@ -26,6 +26,7 @@
   <a href="mailto:nipanevrushabh6@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
+  <a align = "center">
   <a href="https://www.linkedin.com/in/vrushabh-l-a42a581a8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -36,8 +37,14 @@
 <br/>
 <div align="center">
   <a heref="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws"
-<!---
-ProgrammerVrushabh/ProgrammerVrushabh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <img src="https://skillicons.dev/icons?i=aws,java,javascript,github,python,mongodb&perline=3" /> </br>
+    <img src="https://skillicons.dev/icons?i=mysql,html,css,vscode,git,r&perline=3" />
+  </a>
+</div>
+
+<br/>
+<hr/>
+<div align="center">
+  <h2>🔎 My Contributions..... 🔎</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg" />
