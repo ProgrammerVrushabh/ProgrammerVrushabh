@@ -57,12 +57,16 @@
 
 <hr/>
 
-<h2 align="center">🔎 My Contributions 🔎</h2>
+<h2 align="center">🐍 My Contributions 🐍</h2>
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/programmerVrushabh/programmerVrushabh/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
 
 <hr/>
 
