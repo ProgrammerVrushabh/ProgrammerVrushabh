@@ -133,10 +133,11 @@
    <h2 align="center">⚡ Profile Summary ⚡</h2>
    
   <picture>
-    <img 
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProgrammerVrushabh&theme=react" 
-      alt="Profile Summary" 
+    <img  
       width="390"
+      alt="Profile Summary"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ProgrammerVrushabh&theme=react" 
+      
     />
   </picture>
 
