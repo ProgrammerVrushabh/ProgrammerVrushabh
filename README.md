@@ -130,6 +130,7 @@
   </div>
 
    <br/><br/>
+   <h2 align="center">⚡ Profile Summary ⚡</h2>
    
   <picture>
     <img 
