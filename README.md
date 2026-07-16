@@ -122,6 +122,11 @@
         alt="Top languages" 
         src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProgrammerVrushabh&layout=compact&theme=react" 
       />
+      <img 
+        width="390" 
+        alt="Top languages" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProgrammerVrushabh&theme=react&utcOffset={utcOffset}" 
+      />
   </div>
 
 </div>
