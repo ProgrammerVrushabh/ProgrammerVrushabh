@@ -106,7 +106,7 @@
       <img 
         width="390" 
         alt="GitHub stats" 
-        src="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=react&border_radius=10" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProgrammerVrushabh&theme=react" 
       />
     </picture>
       <source 
