@@ -103,11 +103,6 @@
         media="(prefers-color-scheme: light)" 
         srcset="https://github-readme-stats.vercel.app/api?username=ProgrammerVrushabh&show_icons=true&theme=default&rank_icon=github&border_radius=10" 
       />
-      <img 
-        width="390" 
-        alt="GitHub stats" 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProgrammerVrushabh&theme=react" 
-      />
     </picture>
       <source 
         media="(prefers-color-scheme: dark)" 
