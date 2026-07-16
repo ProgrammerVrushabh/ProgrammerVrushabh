@@ -120,7 +120,7 @@
       <img 
         width="390" 
         alt="Top languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProgrammerVrushabh&theme=react" 
       />
       <img 
         width="390" 
