@@ -122,6 +122,11 @@
         alt="Top languages" 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerVrushabh&layout=compact&theme=react&border_radius=10" 
       />
+      <img 
+        width="390" 
+        alt="Top languages" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProgrammerVrushabh&theme=tokyonight&exclude={exclude}" 
+      />
   </div>
 
 </div>
