@@ -125,7 +125,7 @@
       <img 
         width="390" 
         alt="Top languages" 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProgrammerVrushabh&layout=compact&theme=nord_dark&border_radius=10" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ProgrammerVrushabh&layout=compact&theme=nord_dark" 
       />
   </div>
 
