@@ -128,7 +128,6 @@
         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ProgrammerVrushabh&theme=react&utcOffset={utcOffset}" 
       />
   </div>
-
    <br/><br/>
    <h2 align="center">⚡ Profile Summary ⚡</h2>
     <img  
