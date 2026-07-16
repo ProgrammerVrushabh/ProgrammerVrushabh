@@ -125,7 +125,7 @@
       <img 
         width="390" 
         alt="Top languages" 
-        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProgrammerVrushabh&theme=react&exclude={exclude}" 
+        src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProgrammerVrushabh&theme=nord_dark&border_radius=10" 
       />
   </div>
 
